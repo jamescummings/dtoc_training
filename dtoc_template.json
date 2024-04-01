@@ -1,17 +1,17 @@
 {
     "inputs": [
-        "link to raw XML file in github"
+        "https://raw.githubusercontent.com/jamescummings/dtoc_training/main/chamberlain_letters_1613.xml"
     ],
-    "documents": "//div[@type='divType'or@type='otherDivTypeIfApplicable']",
+    "documents": "//div[@type='letter']",
     "ignoreNamespace": true,
     "documentTitle": "head",
-    "documentAuthor": "",
+    "documentAuthor": "James Cummings",
     "documentImages": "",
     "documentNotes": "",
     "documentLinks": "",
     "indexDocument": "//div[@type='index']",
-    "editionTitle": "Title",
-    "editionSubtitle": "Subtitle",
+    "editionTitle": "My DToC Edition",
+    "editionSubtitle": "I hope I have not messed this up!",
     "curation": {
         "markup": [
             {
