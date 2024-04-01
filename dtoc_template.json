@@ -5,7 +5,7 @@
     "documents": "//div[@type='letter']",
     "ignoreNamespace": true,
     "documentTitle": "head",
-    "documentAuthor": "James Cummings",
+    "documentAuthor": "'James Cummings'",
     "documentImages": "",
     "documentNotes": "",
     "documentLinks": "",
